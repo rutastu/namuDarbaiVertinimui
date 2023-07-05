@@ -99,11 +99,14 @@ input[type="password"]::placeholder {
   border-radius: 10px;
   border: 1px solid #3A5B22;
   background: #3A5B22;
-  color: white;
   font-size: 13px;
   font-weight: 700;
   margin-bottom: 59.09px;
   cursor: pointer;
+}
+.signUp a {
+  text-decoration: none;
+  color: white;
 }
 
 .or > * {
@@ -194,6 +197,9 @@ input[type="password"]::placeholder {
   font-size: 14px;
   font-weight: 500;
   align-self: center;
+}
+.haveAn a {
+  color: blue;
 }
 
 
