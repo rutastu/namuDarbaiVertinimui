@@ -108,6 +108,10 @@ input[type="password"]::placeholder {
   text-decoration: none;
   color: white;
 }
+.signUp a:visited {
+  text-decoration: none;
+  color: white;
+}
 
 .or > * {
   position: absolute;
@@ -198,8 +202,10 @@ input[type="password"]::placeholder {
   font-weight: 500;
   align-self: center;
 }
-
-
+.haveAn a{
+  text-decoration: none;
+  color: blue;
+}
 
 
 
